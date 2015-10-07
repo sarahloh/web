@@ -1,0 +1,24 @@
+body {
+	font-family:  Verdana;
+}
+table, th, td {
+	border: 1px solid black;
+	margin-left: 10px;
+}
+table {
+	width: 80%;
+	box-shadow: 10px 10px 5px #888; 
+}
+	
+th {
+        font-weight: bold;
+	font-size: 1em;
+        background-color: #FFCC99;
+	padding: 0.5em;
+}
+	
+td {
+	font-size: 0.9em;
+        background-color: #E5E5E5;
+	padding: 0.7em;
+}

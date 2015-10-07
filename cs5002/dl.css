@@ -1,0 +1,25 @@
+body {
+	font-family:  Arial;
+     }
+	
+dl {
+	width:350px;
+	float:left;
+	margin-right:2em;
+   }
+	
+dt {
+        font-weight:bold;
+	font-size:0.9em;
+	margin-bottom:0.7em;
+        background-color: #FFCC99;
+   }
+	
+dd {
+	color:#444;
+	font-size:0.7em;
+	margin:0 0 2em 0;
+	padding-left:4.5em;
+	/* line-height:1.5em; */
+        background-color: #99CCFF;
+}

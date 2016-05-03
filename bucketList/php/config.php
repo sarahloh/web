@@ -1,7 +1,7 @@
 <?php
     // These variables define the connection information for your MySQL database
     $username = "root";
-    $password = "my5qlpwd";
+    $password = "root";
     $host = "localhost";
     $dbname = "bucket_list";
 
